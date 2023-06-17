@@ -19,9 +19,9 @@ Im-Pong-Sibble ported to Arduino on a 1.3-inch SSD1306 OLED display using two An
 # Showcase
 - You can check a video to see what the game looks like on my father's channel
   - Only 1-player mode:
-    - Test: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JdPYtcu4LfI/0.jpg)](https://www.youtube.com/watch?v=JdPYtcu4LfI)
-    - Link: https://youtu.be/JdPYtcu4LfI
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JdPYtcu4LfI/0.jpg)](https://www.youtube.com/watch?v=JdPYtcu4LfI)
   - 1-player and 2-player modes:
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-K7Vt8vrE0U/0.jpg)](https://www.youtube.com/watch?v=-K7Vt8vrE0U)
     - Link: https://youtu.be/-K7Vt8vrE0U
 
 # Wiring

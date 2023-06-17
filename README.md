@@ -30,23 +30,23 @@ Im-Pong-Sibble ported to Arduino on a 1.3-inch SSD1306 OLED display using two An
   ```VDD --- 3.3V
   GND --- GND
   SCK --- A5
-  SDA --- A4```
+  SDA --- A4
 
 - Joystick 1
   ```+5V --- 5V
   GND --- GND
   VRX --- A0
   VRY --- A1
-  SW --- D2```
+  SW --- D2
 
 - Joystick 2
   ```+5V --- 5V
   GND --- GND
   VRX --- A2
   VRY --- A3
-  SW --- D4```
+  SW --- D4
 
 - Piezo
   ```VCC --- 5V
   GND --- GND
-  I/O --- D3```
+  I/O --- D3
